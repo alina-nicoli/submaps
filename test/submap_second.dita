@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="submap_second">
+    <title>Submap second topic title abc</title>
+    <body>
+        <p>This is the second topic of the submap.</p>
+    </body>
+</topic>
