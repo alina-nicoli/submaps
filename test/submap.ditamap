@@ -4,5 +4,4 @@
     <title>Submap title</title>
     <topicref href="submap_first.dita"/>
     <topicref href="submap_second.dita"/>
-    <topicref href="submap_third.dita"/>
 </map>
