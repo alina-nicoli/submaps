@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_q55_lq5_2hc">
-    <title></title>
+    <title>Third topic from submap</title>
     <body>
-        <p></p>
+        <p>This is the third topic from submap</p>
     </body>
 </topic>
