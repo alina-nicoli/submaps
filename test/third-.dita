@@ -3,6 +3,7 @@
 <topic id="topic_nmk_ym4_hhc">
     <title>Third topic title</title>
     <body>
-        <p></p>
+        <p/>
+        <image href="download.jpg" id="image_ln2_nn4_hhc"/>
     </body>
 </topic>
