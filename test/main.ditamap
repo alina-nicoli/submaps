@@ -4,5 +4,6 @@
     <title>Main</title>
     <topicref href="first.dita"/>
     <topicref href="second.dita"/>
+    <topicref href="third-.dita"/>
     <topicref href="submap.ditamap" format="ditamap"/>
 </map>
