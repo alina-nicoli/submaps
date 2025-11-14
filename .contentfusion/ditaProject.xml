@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project xmlns="https://www.dita-ot.org/project">
+    <context id="oWDIVJPhQcjShuU" name="submap">
+        <input href="../test/submap.ditamap"/>
+    </context>
+    <context id="pXCZgJvhHPvPOLt" name="main">
+        <input href="../test/main.ditamap"/>
+    </context>
+</project>
