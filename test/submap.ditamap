@@ -2,6 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Submap title</title>
+    <topicref href="abcd.dita"/>
     <topicref href="submap_first.dita"/>
     <topicref href="submap_second.dita"/>
     <topicref href="submap_third.dita"/>
